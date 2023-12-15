@@ -1,7 +1,7 @@
 # Tableau_challenge
+TABLEAU WORKSHEET LINK - https://public.tableau.com/views/Module18Challenge_17021792531030/StoryofCityBikeDataAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
-![Alt text](<images 3.jpeg>)
 
 Analysis:
 
@@ -47,4 +47,3 @@ On this particular dashboard the bike utilizations Vs differnt parameters are sh
 4. Average Trip Duration for females were almost double that males although less number of females rent the bike.
 
 
-![Alt text](<image 2.jpeg>)
